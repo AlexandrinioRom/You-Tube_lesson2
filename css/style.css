@@ -1491,7 +1491,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 .insp__item--6 {
-	background-image: url("/img/insp-6.jpg");
+	background-image: url("../img/insp-6.jpg");
 }
 
 .insp__item--7 {
