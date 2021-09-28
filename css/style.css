@@ -1,3 +1,9 @@
+.container {
+	max-width: 1626px;
+	padding: 0 30px;
+	margin: 0 auto;
+}
+
 @import "_normalize.css";
 @import "_fonts.css";
 @import "_variables.css";
@@ -17,8 +23,3 @@
 
 
 @import "_media.css";
-
-.container {
-  width: 100%;
-  margin: 0 auto;
-}
