@@ -18,6 +18,7 @@
 
 @import "_media.css";
 
-.h5 {
+.wrapper {
   width: 100%;
+  mergin: 0 auto;
 }
