@@ -18,7 +18,7 @@
 
 @import "_media.css";
 
-.wrapper {
+.container {
   width: 100%;
   margin: 0 auto;
 }
