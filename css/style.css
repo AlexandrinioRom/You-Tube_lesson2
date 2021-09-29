@@ -733,7 +733,7 @@ input[type="search"]::-webkit-search-results-decoration {
 /* first styles start */
 
 .first {
-	height: 100vh;
+	max-height: 100vh;
 	min-height: 660px;
 	background-image: url("../img/first-bg.jpg");
 	background-position: center;
@@ -1025,7 +1025,8 @@ input[type="search"]::-webkit-search-results-decoration {
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
-	height: 1080px;
+	max-height: 100vh;
+	min-height: 65vh;
 	position: relative;
 }
 
